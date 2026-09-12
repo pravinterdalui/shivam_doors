@@ -1,0 +1,21 @@
+{
+    "categories":[
+        {"category_id":1,"category_name":"java"},
+        {"category_id":2,"category_name":"react"},
+        {"category_id":3,"category_name":"aws"}
+    ],
+    "videos":[
+        {
+            "video_id":1,
+            "title":"React JS-Tutorial",
+            "description":"",
+            "url":"",
+            "views":0,
+            "likes":0,
+            "dislikes":0,
+            "category_id":2,
+            "comments":""
+
+        }
+    ]
+}
